@@ -6,4 +6,4 @@ This project collect a dataset public on Internet and EDA (eploratory data analy
 - 13 December, 2022:
 	- Completing data collection
 	- Basical data exploration
-	> **Note:** *Is data valid?* session should be discussed more!
+	**Note:** *Is data valid?* session should be discussed more!
