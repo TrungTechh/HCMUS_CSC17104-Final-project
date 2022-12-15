@@ -9,3 +9,4 @@ This project collect a dataset public on Internet and EDA (eploratory data analy
 - 15 December, 2022
 	- Realizing something wrong with before dataset **&rarr; Change another dataset**
 	- Basical data exploration (on new dataset)
+	- Propose some questions and analysis data to answer them (phuong branch)
